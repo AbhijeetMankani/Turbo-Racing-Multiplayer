@@ -103,7 +103,7 @@
 			}
 			else if(drivingIntoTileType == TrackGoal)
 			{
-				document.getElementById("debugText").innerHTML = this.myName + " won!!";
+				document.getElementById("debugText").innerHTML = this.myName + " Wins!!";
 				p1.reset();
 				p2.reset();
 			
